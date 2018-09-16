@@ -14,12 +14,11 @@ public class AddressBook {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Address book");
+		System.out.println("LALALA");
 		
 		BuddyInfo n = new BuddyInfo();
 		n.setName("unknown");
 		n.setPhoneNumber(0000000000);
-		
 		
 		AddressBook a = new AddressBook();
 		a.addBuddy(n);

@@ -14,7 +14,7 @@ public class AddressBook {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("LALALA");
+		System.out.println("Lab 2");
 		
 		BuddyInfo n = new BuddyInfo();
 		n.setName("unknown");

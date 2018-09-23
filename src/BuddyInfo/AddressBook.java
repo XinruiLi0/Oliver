@@ -4,8 +4,11 @@ import java.util.ArrayList;
 
 public class AddressBook {
 	
-	private ArrayList<BuddyInfo> lists = new ArrayList();
+	private ArrayList<BuddyInfo> lists;
 	
+	public AddressBook () {
+		lists = new ArrayList();
+	}
 	public void addBuddy(BuddyInfo a) {
 		lists.add(a);
 	}

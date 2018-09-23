@@ -2,6 +2,8 @@ package BuddyInfo;
 
 import java.util.ArrayList;
 
+
+// This is new branch
 public class AddressBook {
 	
 	private ArrayList<BuddyInfo> lists;
